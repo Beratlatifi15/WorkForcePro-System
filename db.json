@@ -1,0 +1,37 @@
+{
+  "departments": [
+    {
+      "id": 1,
+      "name": "SaleUpToDate",
+      "employee_list": [
+        {
+          "id": 1,
+          "name": "Leonora Latifaj",
+          "address": "nazmi osmani 1245, 21",
+          "email": "leonora.latifaj123@gmail.com",
+          "phone": "445554545"
+        },
+        {
+          "id": 2,
+          "name": "Leonora Latifaj",
+          "address": "nazmi osmani 1245, 21",
+          "email": "leonora.latifaj@student.uni-pr.edu",
+          "phone": "445554545"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Pyth",
+      "employee_list": []
+    },
+    {
+      "id": 8,
+      "employee_list": []
+    }
+  ],
+  "lastUsedId": {
+    "departmentId": 9,
+    "employeeId": 5
+  }
+}
